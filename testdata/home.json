@@ -1,0 +1,10 @@
+{
+    "view":"0",
+    "add":[1],
+    "filter":"ADIDAS ORIGINAL",
+    "MIN":"1000",
+    "MAX":"60000",
+    "category":[3,4,5],
+    "sub":[5,7,6],
+    "search":[2]
+}
